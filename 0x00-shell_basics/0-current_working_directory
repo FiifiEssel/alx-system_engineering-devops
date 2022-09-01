@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "pwd"
+# printing current directory
+
+$pwd
+
